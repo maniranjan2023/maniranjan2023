@@ -117,7 +117,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 [![An image of @maniranjan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maniranjan2023)](https://holopin.io/@maniranjan2023)
 
-
 ```text
 Python   3 hrs 58 mins    ███████████████████████   100.00 %
 ```
