@@ -116,7 +116,7 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=maniranjan2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
  [![An image of @maniranjan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maniranjan2023)](https://holopin.io/@maniranjan2023)
 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=maniranjan2023)](https://git.io/streak-stats)
+ 
 <!--START_SECTION:waka-->
 
 ```text
