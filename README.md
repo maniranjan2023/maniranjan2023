@@ -139,6 +139,17 @@ Here are some ideas to get you started:
   <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/maniranjan1512?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
+<h2 align="center">Codeforces Profile</h2>
+<p align="center">
+  <img src="https://readme-stats.cfapps.io/api/codeforces?id=maniranjan1512&theme=dark" alt="Codeforces Stats" />
+</p>
+
+<h2 align="center">CodeChef Profile</h2>
+<p align="center">
+  <img src="https://codechef-readme-stats.vercel.app/api/user?username=maniranjan1512" alt="CodeChef Stats" />
+</p>
+
+
  
 <!--START_SECTION:waka-->
 
