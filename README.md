@@ -140,9 +140,8 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Codeforces Profile</h2>
-<p align="center">
-  <img src="https://readme-stats.cfapps.io/api/codeforces?id=maniranjan1512&theme=dark" alt="Codeforces Stats" />
-</p>
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=maniranjan1512&theme=1)
+Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 
 <h2 align="center">CodeChef Profile</h2>
 <p align="center">
