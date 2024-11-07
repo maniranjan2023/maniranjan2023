@@ -156,6 +156,6 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/maniranjan2023.maniranjan2023.svg)
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=maniranjan1512&theme=Dark)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=maniranjan1512)
 
 
