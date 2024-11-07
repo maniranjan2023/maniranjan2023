@@ -140,6 +140,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Codeforces Profile</h2>
+<p> ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=maniranjan1512)</p>
 
 <h2 align="center">CodeChef Profile</h2>
 <p align="center">
