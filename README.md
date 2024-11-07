@@ -136,7 +136,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   
-  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/maniranjan.23010107?theme=dark&font=Nunito&ext=heatmap" />  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/maniranjan1512?theme=dark&font=Nunito&ext=heatmap" />  
 </p>
 
 
@@ -153,7 +153,7 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    ███████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
-![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=maniranjan1512)
+![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=maniranjan.23010107)
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/maniranjan2023.maniranjan2023.svg)
 
 
