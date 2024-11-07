@@ -19,6 +19,16 @@ Here are some ideas to get you started:
 
     
 # 🖥️ Technical Skills: 
+
+
+
+
+
+
+
+
+
+
 <p align="left">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
@@ -116,6 +126,19 @@ Here are some ideas to get you started:
 ![](https://github-profile-trophy.vercel.app/?username=maniranjan2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
  [![An image of @maniranjan2023's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/maniranjan2023)](https://holopin.io/@maniranjan2023)
+
+
+ <h2 align="center">Leetcode Info<h2>  
+<p align="center">
+  <a href="https://leetcode.com/maniranjan1512/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/maniranjan1512/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-03.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/maniranjan1512/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/maniranjan1512/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" alt="jyot" height="200" width="200" /></a>
+</p>
+<p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/its-nishant320?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
 
  
 <!--START_SECTION:waka-->
