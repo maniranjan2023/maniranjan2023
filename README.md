@@ -140,8 +140,6 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Codeforces Profile</h2>
-![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=maniranjan1512&theme=1)
-Get your Codeforces Stats Card: [GitHub Readme Codeforces Stats](https://github.com/wweverma1/github-readme-codeforces-stats)
 
 <h2 align="center">CodeChef Profile</h2>
 <p align="center">
@@ -157,3 +155,6 @@ Python   3 hrs 58 mins    ██████████████████
 ```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/maniranjan2023.maniranjan2023.svg)
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=maniranjan1512&theme=Dark)
+
+
