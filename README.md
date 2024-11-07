@@ -140,7 +140,8 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="center">Codeforces Profile</h2>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=maniranjan1512)
+
+
 
 <h2 align="center">CodeChef Profile</h2>
 <p align="center">
@@ -155,6 +156,7 @@ Here are some ideas to get you started:
 Python   3 hrs 58 mins    ███████████████████████   100.00 %
 ```
 <!--END_SECTION:waka-->
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=maniranjan1512)
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/maniranjan2023.maniranjan2023.svg)
 
 
