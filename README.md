@@ -74,7 +74,7 @@ Records doctor–patient conversations and converts them into structured clinica
 
 ---
 
-### 📄 AI Payer Workflow Automation (Healthcare Insurance) `2nd Year`
+### 📄 AI Payer Workflow Automation (Healthcare Insurance) `3rd Year`
 > *Multi-agent architecture. YC-level problem space.*
 
 An autonomous insurance payer workflow system that extracts data from discharge summaries, validates medical coding, applies decision logic via multi-agent orchestration, and escalates edge cases to humans — with full compliance guardrails.
