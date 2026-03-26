@@ -1,162 +1,127 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:16213e&height=130&section=header&text=Hey,%20I'm%20Maniranjan%20👋&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=Maniranjan&fontSize=50&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-
-### 🛠️ Building AI systems that actually ship.
+### AI Engineer · Full Stack Dev · 3rd Year Undergrad who ships to production
 
 ```
-21 y/o CS undergrad @ IIIT Bhagalpur  •  3 internships, 2 continents  •  Turning ideas into deployed products
+21 y/o  ·  3rd Year CSE @ IIIT Bhagalpur  ·  3 internships done by 2nd year  ·  India 🇮🇳  Kenya 🇰🇪  UK 🇬🇧
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/maniranjan)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniranjan1512@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maniranjan)
-[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maniranjan-in-086857288/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maniranjan1512@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com)
+[![GitHub followers](https://img.shields.io/github/followers/maniranjan?style=for-the-badge&logo=github)](https://github.com/maniranjan)
 
 </div>
 
 ---
 
-## 🚀 Who Am I?
-
-> I'm a **21-year-old AI Full Stack Engineer** who has already shipped production systems across **India, East Africa, and the UK** — all while being a 2nd-year undergrad.
-
-I don't just build side projects. I build things that **handle 1,000+ daily users**, run at **99.9% uptime**, and solve real business problems — from healthcare AI in Nairobi to HR platforms in London.
-
-My sweet spot? **The intersection of AI and backend engineering** — voice agents, RAG pipelines, LLM integrations, and microservices that scale.
-
----
-
-## 💼 What I've Actually Built (Not Just "Worked On")
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏥 Healthcare AI — Nairobi, Kenya
-**@ Actnable AI**
-- Deployed speech AI across **10+ healthcare centers**
-- AI calling agent with **96% response capture rate**
-- Payment reminder system handling **1,000+ calls/day**
-- Cut human agent workload by **50%**
-
-</td>
-<td width="50%">
-
-### 📊 HR Intelligence — London, UK
-**@ Revaluate180**
-- HR survey platform reaching **1,000+ employees**
-- **95%+ completion rate** on automated surveys
-- Improved HR decision accuracy by **40%**
-- Boosted company productivity by **25%**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 Influencer Analytics — Bengaluru, India
-**@ InfluxClub.io**
-- Analyzed **1,500+ Instagram posts** for brand campaigns
-- Role-based dashboards for Admin, Brand & Creator
-- Achieved **99.9% uptime** via serverless architecture
-
-</td>
-<td width="50%">
-
-### 🏆 Hackathons
-- 🥇 **1st Place** — Hacktopia'26 (Placement Cell)
-- 🥉 **3rd Place** — HackMatrix'25 @ IIT Patna (36+ teams)
-- 🏅 **Rank 11** — PYCHAMP, IIIT Bhagalpur
-- ✅ **3 PRs merged** in Hacktoberfest 2024
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔥 Projects I'm Proud Of
-
-### 🚂 RailFlow — Production-Grade Booking Backend
-> *Like IRCTC, but engineered properly.*
-
-- **Microservices architecture** with Google Auth + JWT refresh tokens
-- **Redis caching** cutting query latency by **60%**
-- **Elasticsearch** with fuzzy search + **<100ms autocomplete**
-- Handles **500+ concurrent bookings**, **1,000+ async tasks/day** via BullMQ
-- Archived **100K+ records** to Cassandra for performance
-
-`Node.js` `PostgreSQL` `Redis` `Elasticsearch` `Cassandra` `BullMQ` `Docker`
-
----
-
-### 🎤 PrepMate — AI Mock Interview Platform
-> *A real interviewer, not a chatbot.*
-
-- Resume-based questions across **HR, Technical & Managerial** rounds
-- Real-time avatar interviewer with **<2s response latency**
-- **90% transcription accuracy** via Whisper + Deepgram
-- Automated performance reports across **10+ evaluation criteria**
-
-`React.js` `Express.js` `OpenAI` `Cartesia TTS` `HeyGen` `Anam SDK`
-
----
-
-## 🧠 Tech Stack
-
-```
-AI/ML           →   RAG · LLM Integration · Voice Agents · Prompt Engineering
-                    OpenAI SDK · Whisper · ElevenLabs · Vercel AI SDK
-
-Backend         →   Node.js · Express.js · Next.js · Django · REST APIs
-                    PostgreSQL · MongoDB · Redis · Cassandra · Prisma
-
-Frontend        →   React.js · Next.js · Figma (prototyping)
-
-Cloud & DevOps  →   Azure · Vercel · Render · Cloudinary · Amazon SES
-                    Serverless Architecture · BullMQ · Docker
-
-Languages       →   JavaScript · Python · C++ · C
-```
-
----
-
-## 📈 By The Numbers
-
 <div align="center">
 
-| Metric | Value |
-|--------|-------|
-| Internships Completed | 3 (and counting) |
-| Countries Deployed In | 🇮🇳 India · 🇰🇪 Kenya · 🇬🇧 UK |
-| LeetCode Problems Solved | 500+ |
-| Daily API calls handled (production) | 1,000+ |
-| Hackathon Wins | 2 🏆 |
-| Open Source PRs Merged | 3 ✅ |
+## 🧩 The Short Version
 
 </div>
 
+> While most undergrads are still figuring out their first internship,
+> I'd already **shipped AI systems to production across 3 countries by my 2nd year** — handling **1,000+ live users daily** and winning hackathons at IIT Patna.
+>
+> Now in my **3rd year**, I'm just getting started.
+>
+> I obsess over one thing: **building AI products that actually work in the real world.**
+
 ---
 
-## 💡 What I'm Looking For
+## ⚡ Real Work. Real Impact.
 
-I'm actively looking for **SWE / AI Engineer internship or full-time roles** where I can:
-- Build AI-powered products at scale
-- Work with a technical team that ships fast
-- Solve problems that matter
+> All 3 internships below were completed during my **2nd year of college**. These aren't toy projects — these are deployed systems with real users.
 
-If you're a **founder building in AI** or a **recruiter at a fast-moving tech company** — let's talk.
+<br/>
 
-📬 **maniranjan1512@gmail.com** | 📞 **+91 9162592464**
+**🏥 AI for Healthcare — Nairobi, Kenya &nbsp;|&nbsp; Actnable AI &nbsp;`2nd Year`**
+
+Deployed a **speech-based clinical AI** across 10+ healthcare centers that recorded and analyzed patient-doctor conversations in real time. Built an **AI calling agent** that autonomously conducted surveys with a **96% response capture rate** — and a payment reminder system that handled **1,000+ calls per day**, cutting human agent workload in half.
+
+> *RAG pipelines · Voice Agents · ElevenLabs · Azure · Twilio*
+
+---
+
+**📊 HR Intelligence Platform — London, UK &nbsp;|&nbsp; Revaluate180 &nbsp;`2nd Year`**
+
+Built a survey engine that automatically reached **1,000+ employees** and hit a **95%+ completion rate**. The system didn't just collect data — it analyzed responses to surface insights on employee mindset and capability, improving HR decision accuracy by **40%** and boosting company productivity by **25%**.
+
+> *Next.js · Django · PostgreSQL · Amazon SES*
+
+---
+
+**📱 Influencer Analytics Dashboard — Bengaluru, India &nbsp;|&nbsp; InfluxClub.io &nbsp;`2nd Year`**
+
+Analyzed **1,500+ Instagram posts** to rank influencers by real engagement metrics for brand campaigns. Designed and shipped role-based dashboards for Admins, Brands, and Creators — maintaining **99.9% uptime** after migrating to serverless architecture.
+
+> *Next.js · Remix · MongoDB · Apify · Vercel*
+
+---
+
+## 🎤 PrepMate — AI Mock Interviewer
+
+> *Not a chatbot. An actual interviewer with a face.*
+
+Built a full interview simulation platform that reads your resume, generates **role-specific questions** across HR, Technical, and Managerial rounds — then conducts the interview with a **real-time AI avatar**.
+
+- ⚡ **< 2s response latency** end-to-end
+- 🎯 **90% transcription accuracy** via Whisper + Deepgram
+- 📋 Automated performance reports across **10+ evaluation criteria**
+- 🎥 Live avatar streaming via Anam SDK + Cloudinary
+
+`React.js` `Express.js` `OpenAI` `Cartesia TTS` `HeyGen` `Deepgram` `PostgreSQL`
+
+---
+
+## 🧠 What I Work With
+
+```yaml
+AI & LLMs:      RAG · Voice Agents · Prompt Engineering · OpenAI SDK
+                Whisper · ElevenLabs · Vercel AI SDK · LLM Integration
+
+Backend:        Node.js · Express.js · Django · REST APIs
+                PostgreSQL · MongoDB · Redis · Prisma
+
+Frontend:       React.js · Next.js · Figma
+
+Cloud:          Azure · Vercel · Render · Cloudinary · Amazon SES
+                Serverless · BullMQ · Microservices
+
+Languages:      JavaScript · Python · C++ · C
+```
+
+---
+
+## 🏆 Wins
+
+| | |
+|--|--|
+| 🥇 | **1st Place** — Hacktopia'26 (Placement Cell, IIIT Bhagalpur) |
+| 🥉 | **3rd Place** — HackMatrix'25 @ **IIT Patna** (beat 36+ teams) |
+| 🏅 | **Rank 11** — PYCHAMP Coding Challenge, IIIT Bhagalpur |
+| ✅ | **3 PRs merged** in open-source via Hacktoberfest 2024 |
+| 💻 | **500+ problems** solved on LeetCode & Codeforces |
 
 ---
 
 <div align="center">
 
-*"I don't wait to graduate to get real experience. I build, ship, and learn."*
+## 📬 Let's Talk
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=80&section=footer" width="100%"/>
+I'm actively looking for **AI/SWE internships or full-time roles** where the bar is high and the work is real.
+
+If you're a **founder building fast** or a **team that ships** — I want in.
+
+**[maniranjan1512@gmail.com](mailto:maniranjan1512@gmail.com) &nbsp;·&nbsp; +91 91625 92464**
+
+<br/>
+
+*"I don't wait to graduate to build real things."*
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:000000&height=90&section=footer" width="100%"/>
