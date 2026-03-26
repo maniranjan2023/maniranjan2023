@@ -24,9 +24,9 @@
 </div>
 
 > While most undergrads are still figuring out their first internship,
-> I'd already **shipped AI systems to production across 3 countries by my 2nd year** — handling **1,000+ live users daily** and winning hackathons at IIT Patna.
+> I'd already **shipped AI systems to production across 2 countries by my 2nd year** — and added a third country (🇬🇧 UK) in my 3rd year.
 >
-> Now in my **3rd year**, I'm just getting started.
+> **3 internships. 3 countries. Still in college.**
 >
 > I obsess over one thing: **building AI products that actually work in the real world.**
 
@@ -34,11 +34,11 @@
 
 ## ⚡ Real Work. Real Impact.
 
-> All 3 internships below were completed during my **2nd year of college**. These aren't toy projects — these are deployed systems with real users.
+> **2 internships done by 2nd year. 3rd one in 3rd year.** These aren't toy projects — these are deployed systems with real users across 3 countries.
 
 <br/>
 
-**🏥 AI for Healthcare — Nairobi, Kenya &nbsp;|&nbsp; Actnable AI &nbsp;`2nd Year`**
+**🏥 AI for Healthcare — Nairobi, Kenya &nbsp;|&nbsp; Actnable AI &nbsp;`2nd Year`** *(2nd Internship)*
 
 Deployed a **speech-based clinical AI** across 10+ healthcare centers that recorded and analyzed patient-doctor conversations in real time. Built an **AI calling agent** that autonomously conducted surveys with a **96% response capture rate** — and a payment reminder system that handled **1,000+ calls per day**, cutting human agent workload in half.
 
@@ -46,7 +46,7 @@ Deployed a **speech-based clinical AI** across 10+ healthcare centers that recor
 
 ---
 
-**📊 HR Intelligence Platform — London, UK &nbsp;|&nbsp; Revaluate180 &nbsp;`2nd Year`**
+**📊 HR Intelligence Platform — London, UK &nbsp;|&nbsp; Revaluate180 &nbsp;`3rd Year`** *(3rd Internship)*
 
 Built a survey engine that automatically reached **1,000+ employees** and hit a **95%+ completion rate**. The system didn't just collect data — it analyzed responses to surface insights on employee mindset and capability, improving HR decision accuracy by **40%** and boosting company productivity by **25%**.
 
@@ -54,7 +54,7 @@ Built a survey engine that automatically reached **1,000+ employees** and hit a 
 
 ---
 
-**📱 Influencer Analytics Dashboard — Bengaluru, India &nbsp;|&nbsp; InfluxClub.io &nbsp;`2nd Year`**
+**📱 Influencer Analytics Dashboard — Bengaluru, India &nbsp;|&nbsp; InfluxClub.io &nbsp;`2nd Year`** *(1st Internship)*
 
 Analyzed **1,500+ Instagram posts** to rank influencers by real engagement metrics for brand campaigns. Designed and shipped role-based dashboards for Admins, Brands, and Creators — maintaining **99.9% uptime** after migrating to serverless architecture.
 
